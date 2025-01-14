@@ -1,0 +1,380 @@
+oid,kod KTS,powiat,powierzchnia,rok,TERYT,Typ powiatu,TERYT województwa,Województwo,Odpady zebrane w ciągu roku|ogółem
+5,011212006000,krakowski,1230.0,2003,1206,powiat,12,małopolskie,28714.5
+6,011212210000,nowosądecki,1550.0,2003,1210,powiat,12,małopolskie,18631.5
+3,012414402000,bielski,457.0,2003,2402,powiat,24,śląskie,17703.3
+4,012414604000,częstochowski,1519.0,2003,2404,powiat,24,śląskie,17312.5
+13,030210125000,zgorzelecki,838.0,2003,0225,powiat,02,dolnośląskie,41087.1
+2,060611003000,chełmski,1780.0,2003,0603,powiat,06,lubelskie,4532.0
+20,012414874000,Siemianowice Śląskie,25.0,2003,2474,miasto na prawach powiatu,24,śląskie,26941.0
+34,023016121000,poznański,1900.0,2003,3021,powiat,30,wielkopolskie,81534.2
+26,052615204000,kielecki,2248.0,2003,2604,powiat,26,świętokrzyskie,16741.8
+28,060610901000,bialski,2754.0,2003,0601,powiat,06,lubelskie,10906.9
+35,061813664000,Tarnobrzeg,86.0,2003,1864,miasto na prawach powiatu,18,podkarpackie,19192.6
+36,062013702000,białostocki,2985.0,2003,2002,powiat,20,podlaskie,34069.3
+88,012414863000,Chorzów,34.0,2003,2463,miasto na prawach powiatu,24,śląskie,40012.5
+54,042815614000,olsztyński,2840.0,2003,2814,powiat,28,warmińsko-mazurskie,22230.1
+59,062013807000,łomżyński,1354.0,2003,2007,powiat,20,podlaskie,2762.9
+97,012414979000,Żory,65.0,2003,2479,miasto na prawach powiatu,24,śląskie,27591.4
+47,071427062000,Płock,88.0,2003,1462,miasto na prawach powiatu,14,mazowieckie,57152.4
+50,042214209000,malborski,494.0,2003,2209,powiat,22,pomorskie,22069.6
+222,042214361000,Gdańsk,262.0,2003,2261,miasto na prawach powiatu,22,pomorskie,142358.6
+376,042214362000,Gdynia,136.0,2003,2262,miasto na prawach powiatu,22,pomorskie,83111.0
+223,042214364000,Sopot,17.0,2003,2264,miasto na prawach powiatu,22,pomorskie,21402.1
+362,071427164000,Siedlce,32.0,2003,1464,miasto na prawach powiatu,14,mazowieckie,30473.9
+115,020811462000,Zielona Góra,58.0,2003,0862,miasto na prawach powiatu,08,lubuskie,41701.9
+52,042815518000,gołdapski,772.0,2003,2818,powiat,28,warmińsko-mazurskie,4568.7
+238,042815519000,węgorzewski,693.0,2003,2819,powiat,28,warmińsko-mazurskie,7426.5
+53,042815611000,nidzicki,961.0,2003,2811,powiat,28,warmińsko-mazurskie,5333.9
+197,040410663000,Toruń,116.0,2003,0463,miasto na prawach powiatu,04,kujawsko-pomorskie,71668.6
+57,052615211000,starachowicki,524.0,2003,2611,powiat,26,świętokrzyskie,17394.4
+366,052615261000,Kielce,109.0,2003,2661,miasto na prawach powiatu,26,świętokrzyskie,61522.1
+273,052615303000,kazimierski,422.0,2003,2603,powiat,26,świętokrzyskie,1493.0
+282,060610961000,Biała Podlaska,49.0,2003,0661,miasto na prawach powiatu,06,lubelskie,16245.8
+289,060611062000,Chełm,35.0,2003,0662,miasto na prawach powiatu,06,lubelskie,14422.1
+8,060611064000,Zamość,30.0,2003,0664,miasto na prawach powiatu,06,lubelskie,30478.7
+62,071412917000,otwocki,615.0,2003,1417,powiat,14,mazowieckie,31526.3
+232,012414571000,Piekary Śląskie,40.0,2003,2471,miasto na prawach powiatu,24,śląskie,19964.5
+344,071422537000,żuromiński,805.0,2003,1437,powiat,14,mazowieckie,4095.8
+354,071422730000,szydłowiecki,469.0,2003,1430,powiat,14,mazowieckie,7099.0
+260,020811409000,zielonogórski,1571.0,2003,0809,powiat,08,lubuskie,15906.2
+271,023015761000,Kalisz,70.0,2003,3061,miasto na prawach powiatu,30,wielkopolskie,33481.6
+298,023216309000,koszaliński,1669.0,2003,3209,powiat,32,zachodniopomorskie,13657.7
+371,071422763000,Radom,112.0,2003,1463,miasto na prawach powiatu,14,mazowieckie,60842.5
+377,042214163000,Słupsk,43.0,2003,2263,miasto na prawach powiatu,22,pomorskie,38464.3
+17,011212404000,dąbrowski,530.0,2003,1204,powiat,12,małopolskie,4254.7
+374,011212416000,tarnowski,1414.0,2003,1216,powiat,12,małopolskie,13378.3
+7,011212463000,Tarnów,72.0,2003,1263,miasto na prawach powiatu,12,małopolskie,39276.1
+226,011216917000,tatrzański,472.0,2003,1217,powiat,12,małopolskie,21311.6
+236,012414766000,Gliwice,134.0,2003,2466,miasto na prawach powiatu,24,śląskie,65710.7
+87,012414778000,Zabrze,80.0,2003,2478,miasto na prawach powiatu,24,śląskie,51998.5
+352,031613209000,opolski,1587.0,2003,1609,powiat,16,opolskie,29419.6
+368,062013761000,Białystok,94.0,2003,2061,miasto na prawach powiatu,20,podlaskie,139842.9
+89,012414869000,Katowice,164.0,2003,2469,miasto na prawach powiatu,24,śląskie,120340.3
+90,012414870000,Mysłowice,66.0,2003,2470,miasto na prawach powiatu,24,śląskie,26022.6
+91,012414872000,Ruda Śląska,78.0,2003,2472,miasto na prawach powiatu,24,śląskie,58277.0
+21,012414876000,Świętochłowice,13.0,2003,2476,miasto na prawach powiatu,24,śląskie,21893.2
+64,011212001000,bocheński,631.0,2003,1201,powiat,12,małopolskie,11547.8
+95,012414967000,Jastrzębie-Zdrój,85.0,2003,2467,miasto na prawach powiatu,24,śląskie,35251.7
+65,011212008000,miechowski,677.0,2003,1208,powiat,12,małopolskie,4889.3
+96,012414973000,Rybnik,148.0,2003,2473,miasto na prawach powiatu,24,śląskie,49633.0
+66,011212009000,myślenicki,673.0,2003,1209,powiat,12,małopolskie,10805.2
+23,012415065000,Dąbrowa Górnicza,188.0,2003,2465,miasto na prawach powiatu,24,śląskie,44041.8
+67,011212014000,proszowicki,414.0,2003,1214,powiat,12,małopolskie,4088.1
+100,012415068000,Jaworzno,152.0,2003,2468,miasto na prawach powiatu,24,śląskie,43816.6
+68,011212019000,wielicki,428.0,2003,1219,powiat,12,małopolskie,26669.9
+214,011212161000,Kraków,327.0,2003,1261,miasto na prawach powiatu,12,małopolskie,221439.6
+69,011212205000,gorlicki,967.0,2003,1205,powiat,12,małopolskie,17391.2
+101,012415075000,Sosnowiec,91.0,2003,2475,miasto na prawach powiatu,24,śląskie,54722.4
+70,011212207000,limanowski,952.0,2003,1207,powiat,12,małopolskie,9061.7
+375,011212262000,Nowy Sącz,57.0,2003,1262,miasto na prawach powiatu,12,małopolskie,25381.7
+71,011212303000,chrzanowski,371.0,2003,1203,powiat,12,małopolskie,27504.1
+24,012415108000,mikołowski,232.0,2003,2408,powiat,24,śląskie,25475.8
+72,011212312000,olkuski,622.0,2003,1212,powiat,12,małopolskie,33161.1
+246,012415114000,bieruńsko-lędziński,157.0,2003,2414,powiat,24,śląskie,12379.5
+73,011212313000,oświęcimski,406.0,2003,1213,powiat,12,małopolskie,33667.4
+103,012415177000,Tychy,82.0,2003,2477,miasto na prawach powiatu,24,śląskie,43742.8
+74,011212318000,wadowicki,646.0,2003,1218,powiat,12,małopolskie,20402.7
+25,020811361000,Gorzów Wielkopolski,86.0,2003,0861,miasto na prawach powiatu,08,lubuskie,53080.6
+75,011212402000,brzeski,590.0,2003,1202,powiat,12,małopolskie,7987.2
+76,011216911000,nowotarski,1475.0,2003,1211,powiat,12,małopolskie,19207.0
+77,011216915000,suski,686.0,2003,1215,powiat,12,małopolskie,8204.7
+78,012414403000,cieszyński,730.0,2003,2403,powiat,24,śląskie,32569.2
+79,012414417000,żywiecki,1040.0,2003,2417,powiat,24,śląskie,23661.0
+80,012414461000,Bielsko-Biała,125.0,2003,2461,miasto na prawach powiatu,24,śląskie,54406.1
+81,012414507000,lubliniecki,822.0,2003,2407,powiat,24,śląskie,12633.1
+82,012414513000,tarnogórski,643.0,2003,2413,powiat,24,śląskie,40087.8
+10,012414562000,Bytom,69.0,2003,2462,miasto na prawach powiatu,24,śląskie,55757.4
+83,012414606000,kłobucki,889.0,2003,2406,powiat,24,śląskie,7072.5
+84,012414609000,myszkowski,479.0,2003,2409,powiat,24,śląskie,30370.7
+85,012414664000,Częstochowa,160.0,2003,2464,miasto na prawach powiatu,24,śląskie,91837.7
+86,012414705000,gliwicki,664.0,2003,2405,powiat,24,śląskie,24133.5
+92,012414911000,raciborski,544.0,2003,2411,powiat,24,śląskie,26946.6
+93,012414912000,rybnicki,225.0,2003,2412,powiat,24,śląskie,11185.2
+94,012414915000,wodzisławski,287.0,2003,2415,powiat,24,śląskie,30448.7
+98,012415001000,będziński,368.0,2003,2401,powiat,24,śląskie,43461.6
+99,012415016000,zawierciański,1003.0,2003,2416,powiat,24,śląskie,47476.9
+102,012415110000,pszczyński,473.0,2003,2410,powiat,24,śląskie,18360.9
+104,020811301000,gorzowski,1213.0,2003,0801,powiat,08,lubuskie,16428.9
+105,020811303000,międzyrzecki,1388.0,2003,0803,powiat,08,lubuskie,14640.6
+106,020811305000,słubicki,1000.0,2003,0805,powiat,08,lubuskie,12876.8
+107,020811306000,strzelecko-drezdenecki,1248.0,2003,0806,powiat,08,lubuskie,12200.6
+108,020811307000,sulęciński,1177.0,2003,0807,powiat,08,lubuskie,8288.3
+109,020811402000,krośnieński,1390.0,2003,0802,powiat,08,lubuskie,10381.0
+110,020811404000,nowosolski,771.0,2003,0804,powiat,08,lubuskie,28839.9
+111,020811408000,świebodziński,938.0,2003,0808,powiat,08,lubuskie,27473.0
+112,020811410000,żagański,1131.0,2003,0810,powiat,08,lubuskie,20788.5
+113,020811411000,żarski,1394.0,2003,0811,powiat,08,lubuskie,37659.5
+114,020811412000,wschowski,624.0,2003,0812,powiat,08,lubuskie,7094.1
+12,023015706000,jarociński,588.0,2003,3006,powiat,30,wielkopolskie,10304.8
+121,023015720000,pleszewski,712.0,2003,3020,powiat,30,wielkopolskie,8766.9
+116,023015707000,kaliski,1160.0,2003,3007,powiat,30,wielkopolskie,2574.1
+117,023015708000,kępiński,608.0,2003,3008,powiat,30,wielkopolskie,9006.3
+31,023015827000,turecki,929.0,2003,3027,powiat,30,wielkopolskie,22663.8
+118,023015712000,krotoszyński,714.0,2003,3012,powiat,30,wielkopolskie,11362.0
+119,023015717000,ostrowski,1160.0,2003,3017,powiat,30,wielkopolskie,29067.8
+120,023015718000,ostrzeszowski,772.0,2003,3018,powiat,30,wielkopolskie,5967.0
+122,023015803000,gnieźnieński,1254.0,2003,3003,powiat,30,wielkopolskie,36597.9
+123,023015809000,kolski,1011.0,2003,3009,powiat,30,wielkopolskie,8658.8
+124,023015810000,koniński,1579.0,2003,3010,powiat,30,wielkopolskie,12398.9
+125,023015823000,słupecki,838.0,2003,3023,powiat,30,wielkopolskie,9317.9
+126,023015830000,wrzesiński,704.0,2003,3030,powiat,30,wielkopolskie,24506.5
+127,023015862000,Konin,82.0,2003,3062,miasto na prawach powiatu,30,wielkopolskie,23194.7
+128,023015904000,gostyński,810.0,2003,3004,powiat,30,wielkopolskie,11256.3
+129,023015905000,grodziski,644.0,2003,3005,powiat,30,wielkopolskie,6901.6
+281,023015914000,międzychodzki,737.0,2003,3014,powiat,30,wielkopolskie,11055.2
+130,023015911000,kościański,723.0,2003,3011,powiat,30,wielkopolskie,11336.8
+283,023015922000,rawicki,553.0,2003,3022,powiat,30,wielkopolskie,5491.0
+131,023015913000,leszczyński,804.0,2003,3013,powiat,30,wielkopolskie,8537.8
+132,023015915000,nowotomyski,1012.0,2003,3015,powiat,30,wielkopolskie,12995.1
+133,023015929000,wolsztyński,680.0,2003,3029,powiat,30,wielkopolskie,13939.0
+11,023015963000,Leszno,32.0,2003,3063,miasto na prawach powiatu,30,wielkopolskie,28067.1
+32,023016001000,chodzieski,681.0,2003,3001,powiat,30,wielkopolskie,9330.1
+140,023016125000,średzki,623.0,2003,3025,powiat,30,wielkopolskie,17019.6
+134,023016002000,czarnkowsko-trzcianecki,1808.0,2003,3002,powiat,30,wielkopolskie,14294.6
+135,023016019000,pilski,1267.0,2003,3019,powiat,30,wielkopolskie,69408.8
+136,023016028000,wągrowiecki,1041.0,2003,3028,powiat,30,wielkopolskie,13311.1
+137,023016031000,złotowski,1661.0,2003,3031,powiat,30,wielkopolskie,15740.4
+138,023016116000,obornicki,713.0,2003,3016,powiat,30,wielkopolskie,14587.2
+139,023016124000,szamotulski,1120.0,2003,3024,powiat,30,wielkopolskie,15714.1
+141,023016126000,śremski,575.0,2003,3026,powiat,30,wielkopolskie,9458.1
+142,023016264000,Poznań,261.0,2003,3064,miasto na prawach powiatu,30,wielkopolskie,434055.8
+143,023216301000,białogardzki,845.0,2003,3201,powiat,32,zachodniopomorskie,11141.6
+144,023216308000,kołobrzeski,726.0,2003,3208,powiat,32,zachodniopomorskie,27665.5
+38,023216562000,Szczecin,301.0,2003,3262,miasto na prawach powiatu,32,zachodniopomorskie,181080.6
+145,023216313000,sławieński,1044.0,2003,3213,powiat,32,zachodniopomorskie,10866.3
+146,023216361000,Koszalin,83.0,2003,3261,miasto na prawach powiatu,32,zachodniopomorskie,66239.6
+147,023216402000,choszczeński,1328.0,2003,3202,powiat,32,zachodniopomorskie,7842.8
+148,023216403000,drawski,1772.0,2003,3203,powiat,32,zachodniopomorskie,15784.2
+149,023216410000,myśliborski,1181.0,2003,3210,powiat,32,zachodniopomorskie,19982.4
+150,023216412000,pyrzycki,726.0,2003,3212,powiat,32,zachodniopomorskie,7645.0
+40,030210302000,dzierżoniowski,479.0,2003,0202,powiat,02,dolnośląskie,30674.9
+151,023216415000,szczecinecki,1765.0,2003,3215,powiat,32,zachodniopomorskie,16829.2
+152,023216416000,świdwiński,1093.0,2003,3216,powiat,32,zachodniopomorskie,14140.5
+153,023216417000,wałecki,1407.0,2003,3217,powiat,32,zachodniopomorskie,17280.9
+154,023216418000,łobeski,1066.0,2003,3218,powiat,32,zachodniopomorskie,9258.0
+155,023216604000,goleniowski,1617.0,2003,3204,powiat,32,zachodniopomorskie,19074.2
+156,023216605000,gryficki,1018.0,2003,3205,powiat,32,zachodniopomorskie,18872.5
+157,023216606000,gryfiński,1870.0,2003,3206,powiat,32,zachodniopomorskie,18616.2
+158,023216607000,kamieński,1007.0,2003,3207,powiat,32,zachodniopomorskie,16483.3
+159,023216611000,policki,664.0,2003,3211,powiat,32,zachodniopomorskie,21660.0
+160,023216614000,stargardzki,1519.0,2003,3214,powiat,32,zachodniopomorskie,32223.5
+161,023216663000,Świnoujście,195.0,2003,3263,miasto na prawach powiatu,32,zachodniopomorskie,17329.2
+162,030210101000,bolesławiecki,1303.0,2003,0201,powiat,02,dolnośląskie,25738.2
+163,030210105000,jaworski,581.0,2003,0205,powiat,02,dolnośląskie,15970.5
+164,030210106000,jeleniogórski,628.0,2003,0206,powiat,02,dolnośląskie,19022.2
+165,030210107000,kamiennogórski,396.0,2003,0207,powiat,02,dolnośląskie,12698.3
+14,030210110000,lubański,428.0,2003,0210,powiat,02,dolnośląskie,11685.1
+166,030210112000,lwówecki,710.0,2003,0212,powiat,02,dolnośląskie,11321.6
+167,030210126000,złotoryjski,575.0,2003,0226,powiat,02,dolnośląskie,6532.3
+168,030210161000,Jelenia Góra,109.0,2003,0261,miasto na prawach powiatu,02,dolnośląskie,55700.3
+169,030210203000,głogowski,443.0,2003,0203,powiat,02,dolnośląskie,29508.1
+170,030210204000,górowski,738.0,2003,0204,powiat,02,dolnośląskie,6693.0
+171,030210209000,legnicki,745.0,2003,0209,powiat,02,dolnośląskie,13048.6
+172,030210211000,lubiński,712.0,2003,0211,powiat,02,dolnośląskie,28967.3
+173,030210216000,polkowicki,780.0,2003,0216,powiat,02,dolnośląskie,14501.3
+174,030210262000,Legnica,56.0,2003,0262,miasto na prawach powiatu,02,dolnośląskie,59767.9
+175,030210308000,kłodzki,1643.0,2003,0208,powiat,02,dolnośląskie,61086.0
+176,030210319000,świdnicki,743.0,2003,0219,powiat,02,dolnośląskie,49194.1
+177,030210321000,wałbrzyski,514.0,2003,0221,powiat,02,dolnośląskie,57659.1
+42,030210413000,milicki,715.0,2003,0213,powiat,02,dolnośląskie,5623.9
+178,030210324000,ząbkowicki,802.0,2003,0224,powiat,02,dolnośląskie,22360.2
+179,030210414000,oleśnicki,1050.0,2003,0214,powiat,02,dolnośląskie,22762.9
+180,030210415000,oławski,524.0,2003,0215,powiat,02,dolnośląskie,21516.7
+340,030210422000,wołowski,675.0,2003,0222,powiat,02,dolnośląskie,14268.9
+181,030210417000,strzeliński,622.0,2003,0217,powiat,02,dolnośląskie,6794.3
+43,030210564000,Wrocław,293.0,2003,0264,miasto na prawach powiatu,02,dolnośląskie,237469.7
+182,030210418000,średzki,704.0,2003,0218,powiat,02,dolnośląskie,13398.5
+45,040410661000,Bydgoszcz,174.0,2003,0461,miasto na prawach powiatu,04,kujawsko-pomorskie,108943.8
+183,030210420000,trzebnicki,1026.0,2003,0220,powiat,02,dolnośląskie,18655.3
+203,040410762000,Grudziądz,59.0,2003,0462,miasto na prawach powiatu,04,kujawsko-pomorskie,31424.2
+184,030210423000,wrocławski,1116.0,2003,0223,powiat,02,dolnośląskie,20975.8
+185,031613101000,brzeski,876.0,2003,1601,powiat,16,opolskie,20132.9
+186,031613102000,głubczycki,673.0,2003,1602,powiat,16,opolskie,18832.6
+204,040410801000,aleksandrowski,476.0,2003,0401,powiat,04,kujawsko-pomorskie,9746.0
+187,031613106000,namysłowski,748.0,2003,1606,powiat,16,opolskie,8935.1
+188,031613107000,nyski,1224.0,2003,1607,powiat,16,opolskie,48539.5
+189,031613110000,prudnicki,571.0,2003,1610,powiat,16,opolskie,16802.0
+190,031613203000,kędzierzyńsko-kozielski,625.0,2003,1603,powiat,16,opolskie,19002.5
+46,040410811000,radziejowski,607.0,2003,0411,powiat,04,kujawsko-pomorskie,3310.6
+191,031613204000,kluczborski,852.0,2003,1604,powiat,16,opolskie,15250.7
+44,031613205000,krapkowicki,442.0,2003,1605,powiat,16,opolskie,17507.0
+192,031613208000,oleski,974.0,2003,1608,powiat,16,opolskie,10613.1
+9,040410864000,Włocławek,85.0,2003,0464,miasto na prawach powiatu,04,kujawsko-pomorskie,36192.4
+193,031613211000,strzelecki,744.0,2003,1611,powiat,16,opolskie,13370.2
+194,031613261000,Opole,96.0,2003,1661,miasto na prawach powiatu,16,opolskie,53673.3
+195,040410603000,bydgoski,1395.0,2003,0403,powiat,04,kujawsko-pomorskie,14106.4
+196,040410615000,toruński,1230.0,2003,0415,powiat,04,kujawsko-pomorskie,10310.4
+198,040410702000,brodnicki,1039.0,2003,0402,powiat,04,kujawsko-pomorskie,11522.2
+199,040410704000,chełmiński,528.0,2003,0404,powiat,04,kujawsko-pomorskie,9331.7
+379,040410705000,golubsko-dobrzyński,613.0,2003,0405,powiat,04,kujawsko-pomorskie,4329.6
+209,040416710000,nakielski,1120.0,2003,0410,powiat,04,kujawsko-pomorskie,13570.2
+200,040410706000,grudziądzki,728.0,2003,0406,powiat,04,kujawsko-pomorskie,4046.3
+201,040410712000,rypiński,587.0,2003,0412,powiat,04,kujawsko-pomorskie,7635.4
+202,040410717000,wąbrzeski,501.0,2003,0417,powiat,04,kujawsko-pomorskie,6428.8
+205,040410808000,lipnowski,1016.0,2003,0408,powiat,04,kujawsko-pomorskie,7338.6
+206,040410818000,włocławski,1472.0,2003,0418,powiat,04,kujawsko-pomorskie,6761.8
+207,040416707000,inowrocławski,1225.0,2003,0407,powiat,04,kujawsko-pomorskie,42840.1
+208,040416709000,mogileński,676.0,2003,0409,powiat,04,kujawsko-pomorskie,7282.8
+210,040416719000,żniński,984.0,2003,0419,powiat,04,kujawsko-pomorskie,15175.3
+211,040416813000,sępoleński,791.0,2003,0413,powiat,04,kujawsko-pomorskie,5648.5
+48,042214004000,gdański,793.0,2003,2204,powiat,22,pomorskie,15440.7
+212,040416814000,świecki,1473.0,2003,0414,powiat,04,kujawsko-pomorskie,16516.7
+213,040416816000,tucholski,1075.0,2003,0416,powiat,04,kujawsko-pomorskie,7390.2
+215,042214005000,kartuski,1120.0,2003,2205,powiat,22,pomorskie,12584.9
+216,042214010000,nowodworski,653.0,2003,2210,powiat,22,pomorskie,6193.9
+49,042214207000,kwidzyński,835.0,2003,2207,powiat,22,pomorskie,12407.7
+217,042214011000,pucki,578.0,2003,2211,powiat,22,pomorskie,14302.4
+218,042214015000,wejherowski,1280.0,2003,2215,powiat,22,pomorskie,43077.0
+15,042214101000,bytowski,2193.0,2003,2201,powiat,22,pomorskie,9517.3
+219,042214108000,lęborski,707.0,2003,2208,powiat,22,pomorskie,20014.0
+16,042214112000,słupski,2304.0,2003,2212,powiat,22,pomorskie,12251.8
+220,042214213000,starogardzki,1345.0,2003,2213,powiat,22,pomorskie,28825.5
+365,042214214000,tczewski,698.0,2003,2214,powiat,22,pomorskie,29757.6
+221,042214216000,sztumski,731.0,2003,2216,powiat,22,pomorskie,7592.8
+224,042217202000,chojnicki,1364.0,2003,2202,powiat,22,pomorskie,11887.0
+225,042217203000,człuchowski,1574.0,2003,2203,powiat,22,pomorskie,10396.7
+227,042217206000,kościerski,1166.0,2003,2206,powiat,22,pomorskie,14516.6
+228,042815402000,braniewski,1205.0,2003,2802,powiat,28,warmińsko-mazurskie,7709.0
+51,042815403000,działdowski,964.0,2003,2803,powiat,28,warmińsko-mazurskie,8442.3
+247,051011508000,pabianicki,491.0,2003,1008,powiat,10,łódzkie,39956.7
+229,042815404000,elbląski,1431.0,2003,2804,powiat,28,warmińsko-mazurskie,6400.6
+230,042815407000,iławski,1385.0,2003,2807,powiat,28,warmińsko-mazurskie,10742.1
+231,042815412000,nowomiejski,695.0,2003,2812,powiat,28,warmińsko-mazurskie,1501.7
+18,042815415000,ostródzki,1765.0,2003,2815,powiat,28,warmińsko-mazurskie,20546.9
+19,042815461000,Elbląg,80.0,2003,2861,miasto na prawach powiatu,28,warmińsko-mazurskie,42861.7
+233,042815505000,ełcki,1112.0,2003,2805,powiat,28,warmińsko-mazurskie,19842.7
+234,042815506000,giżycki,1119.0,2003,2806,powiat,28,warmińsko-mazurskie,18151.5
+235,042815513000,olecki,874.0,2003,2813,powiat,28,warmińsko-mazurskie,6579.8
+237,042815516000,piski,1776.0,2003,2816,powiat,28,warmińsko-mazurskie,17913.0
+239,042815601000,bartoszycki,1308.0,2003,2801,powiat,28,warmińsko-mazurskie,11920.1
+240,042815608000,kętrzyński,1213.0,2003,2808,powiat,28,warmińsko-mazurskie,17067.0
+249,051011521000,brzeziński,359.0,2003,1021,powiat,10,łódzkie,3830.1
+241,042815609000,lidzbarski,924.0,2003,2809,powiat,28,warmińsko-mazurskie,13533.0
+250,051011661000,Łódź,294.0,2003,1061,miasto na prawach powiatu,10,łódzkie,359435.1
+242,042815610000,mrągowski,1065.0,2003,2810,powiat,28,warmińsko-mazurskie,14196.0
+243,042815617000,szczycieński,1933.0,2003,2817,powiat,28,warmińsko-mazurskie,14009.9
+244,042815662000,Olsztyn,88.0,2003,2862,miasto na prawach powiatu,28,warmińsko-mazurskie,60084.3
+245,051011506000,łódzki wschodni,499.0,2003,1006,powiat,10,łódzkie,10272.7
+248,051011520000,zgierski,854.0,2003,1020,powiat,10,łódzkie,38288.3
+251,051011701000,bełchatowski,969.0,2003,1001,powiat,10,łódzkie,17916.2
+252,051011707000,opoczyński,1039.0,2003,1007,powiat,10,łódzkie,9914.5
+22,051011710000,piotrkowski,1429.0,2003,1010,powiat,10,łódzkie,7149.9
+253,051011712000,radomszczański,1443.0,2003,1012,powiat,10,łódzkie,24601.4
+254,051011716000,tomaszowski,1026.0,2003,1016,powiat,10,łódzkie,26260.6
+255,051011762000,Piotrków Trybunalski,67.0,2003,1062,miasto na prawach powiatu,10,łódzkie,11854.4
+256,051011803000,łaski,617.0,2003,1003,powiat,10,łódzkie,5286.9
+257,051011809000,pajęczański,804.0,2003,1009,powiat,10,łódzkie,6586.8
+258,051011811000,poddębicki,881.0,2003,1011,powiat,10,łódzkie,3263.3
+55,051011902000,kutnowski,886.0,2003,1002,powiat,10,łódzkie,19215.0
+259,051011814000,sieradzki,1491.0,2003,1014,powiat,10,łódzkie,15736.7
+261,051011817000,wieluński,928.0,2003,1017,powiat,10,łódzkie,3376.2
+262,051011818000,wieruszowski,576.0,2003,1018,powiat,10,łódzkie,4065.8
+263,051011819000,zduńskowolski,369.0,2003,1019,powiat,10,łódzkie,13863.8
+264,051011904000,łęczycki,774.0,2003,1004,powiat,10,łódzkie,7948.3
+56,051011905000,łowicki,987.0,2003,1005,powiat,10,łódzkie,15566.5
+268,052615207000,ostrowiecki,616.0,2003,2607,powiat,26,świętokrzyskie,19159.2
+265,051011913000,rawski,647.0,2003,1013,powiat,10,łódzkie,7658.7
+269,052615210000,skarżyski,378.0,2003,2610,powiat,26,świętokrzyskie,5768.1
+266,051011915000,skierniewicki,756.0,2003,1015,powiat,10,łódzkie,2798.3
+378,051011963000,Skierniewice,33.0,2003,1063,miasto na prawach powiatu,10,łódzkie,14899.8
+267,052615205000,konecki,1140.0,2003,2605,powiat,26,świętokrzyskie,8324.8
+270,052615301000,buski,967.0,2003,2601,powiat,26,świętokrzyskie,9086.3
+272,052615302000,jędrzejowski,1257.0,2003,2602,powiat,26,świętokrzyskie,6448.5
+274,052615306000,opatowski,912.0,2003,2606,powiat,26,świętokrzyskie,5698.8
+275,052615308000,pińczowski,611.0,2003,2608,powiat,26,świętokrzyskie,3942.6
+367,052615309000,sandomierski,676.0,2003,2609,powiat,26,świętokrzyskie,11667.3
+291,060611110000,łęczyński,634.0,2003,0610,powiat,06,lubelskie,9201.5
+276,052615312000,staszowski,925.0,2003,2612,powiat,26,świętokrzyskie,11457.0
+27,061813516000,rzeszowski,1219.0,2003,1816,powiat,18,podkarpackie,18290.6
+277,052615313000,włoszczowski,906.0,2003,2613,powiat,26,świętokrzyskie,3443.5
+278,060610913000,parczewski,953.0,2003,0613,powiat,06,lubelskie,3690.8
+279,060610915000,radzyński,965.0,2003,0615,powiat,06,lubelskie,9615.7
+280,060610919000,włodawski,1256.0,2003,0619,powiat,06,lubelskie,8679.8
+284,060611002000,biłgorajski,1678.0,2003,0602,powiat,06,lubelskie,8358.3
+285,060611004000,hrubieszowski,1270.0,2003,0604,powiat,06,lubelskie,7612.2
+286,060611006000,krasnostawski,1138.0,2003,0606,powiat,06,lubelskie,6494.8
+287,060611018000,tomaszowski,1487.0,2003,0618,powiat,06,lubelskie,9790.2
+288,060611020000,zamojski,1872.0,2003,0620,powiat,06,lubelskie,7141.1
+290,060611108000,lubartowski,1290.0,2003,0608,powiat,06,lubelskie,5825.2
+29,060611109000,lubelski,1679.0,2003,0609,powiat,06,lubelskie,10197.9
+292,060611117000,świdnicki,469.0,2003,0617,powiat,06,lubelskie,11561.5
+293,060611163000,Lublin,148.0,2003,0663,miasto na prawach powiatu,06,lubelskie,115098.9
+294,060611205000,janowski,875.0,2003,0605,powiat,06,lubelskie,2570.5
+37,061813519000,strzyżowski,503.0,2003,1819,powiat,18,podkarpackie,3744.3
+295,060611207000,kraśnicki,1005.0,2003,0607,powiat,06,lubelskie,13262.9
+30,061813563000,Rzeszów,54.0,2003,1863,miasto na prawach powiatu,18,podkarpackie,52123.2
+296,060611211000,łukowski,1394.0,2003,0611,powiat,06,lubelskie,13531.5
+297,060611212000,opolski,804.0,2003,0612,powiat,06,lubelskie,8600.8
+335,071413005000,grodziski,367.0,2003,1405,powiat,14,mazowieckie,19091.5
+299,060611214000,puławski,933.0,2003,0614,powiat,06,lubelskie,23170.2
+300,060611216000,rycki,616.0,2003,0616,powiat,06,lubelskie,7937.6
+336,071413014000,nowodworski,692.0,2003,1414,powiat,14,mazowieckie,12947.4
+301,061813301000,bieszczadzki,1138.0,2003,1801,powiat,18,podkarpackie,8264.8
+302,061813302000,brzozowski,540.0,2003,1802,powiat,18,podkarpackie,11501.2
+61,062013909000,sejneński,856.0,2003,2009,powiat,20,podlaskie,2990.0
+303,061813305000,jasielski,831.0,2003,1805,powiat,18,podkarpackie,31217.0
+304,061813307000,krośnieński,924.0,2003,1807,powiat,18,podkarpackie,14089.9
+305,061813317000,sanocki,1225.0,2003,1817,powiat,18,podkarpackie,31678.0
+306,061813321000,leski,835.0,2003,1821,powiat,18,podkarpackie,8752.0
+307,061813361000,Krosno,43.0,2003,1861,miasto na prawach powiatu,18,podkarpackie,18685.8
+308,061813404000,jarosławski,1029.0,2003,1804,powiat,18,podkarpackie,22121.9
+309,061813409000,lubaczowski,1308.0,2003,1809,powiat,18,podkarpackie,6454.8
+310,061813413000,przemyski,1214.0,2003,1813,powiat,18,podkarpackie,9934.1
+311,061813414000,przeworski,698.0,2003,1814,powiat,18,podkarpackie,10711.8
+33,061813462000,Przemyśl,44.0,2003,1862,miasto na prawach powiatu,18,podkarpackie,18920.5
+312,061813506000,kolbuszowski,774.0,2003,1806,powiat,18,podkarpackie,5931.3
+313,061813510000,łańcucki,452.0,2003,1810,powiat,18,podkarpackie,6874.9
+58,061813515000,ropczycko-sędziszowski,549.0,2003,1815,powiat,18,podkarpackie,5736.6
+314,061813603000,dębicki,776.0,2003,1803,powiat,18,podkarpackie,28356.6
+315,061813608000,leżajski,583.0,2003,1808,powiat,18,podkarpackie,17449.0
+316,061813611000,mielecki,880.0,2003,1811,powiat,18,podkarpackie,24238.1
+317,061813612000,niżański,786.0,2003,1812,powiat,18,podkarpackie,5364.1
+318,061813618000,stalowowolski,833.0,2003,1818,powiat,18,podkarpackie,31719.3
+319,061813620000,tarnobrzeski,520.0,2003,1820,powiat,18,podkarpackie,8206.4
+1,071412865000,Warszawa,517.0,2003,1465,"miasto stołeczne, na prawach powiatu",14,mazowieckie,808333.5
+320,062013711000,sokólski,2054.0,2003,2011,powiat,20,podlaskie,14657.0
+321,062013803000,bielski,1385.0,2003,2003,powiat,20,podlaskie,11689.8
+332,071412908000,legionowski,390.0,2003,1408,powiat,14,mazowieckie,8725.7
+322,062013805000,hajnowski,1624.0,2003,2005,powiat,20,podlaskie,9383.0
+323,062013806000,kolneński,940.0,2003,2006,powiat,20,podlaskie,3509.1
+324,062013810000,siemiatycki,1460.0,2003,2010,powiat,20,podlaskie,6563.3
+325,062013813000,wysokomazowiecki,1282.0,2003,2013,powiat,20,podlaskie,5988.0
+326,062013814000,zambrowski,733.0,2003,2014,powiat,20,podlaskie,6292.6
+60,062013862000,Łomża,33.0,2003,2062,miasto na prawach powiatu,20,podlaskie,16395.6
+327,062013901000,augustowski,1658.0,2003,2001,powiat,20,podlaskie,19870.6
+328,062013904000,grajewski,967.0,2003,2004,powiat,20,podlaskie,12114.2
+329,062013908000,moniecki,1382.0,2003,2008,powiat,20,podlaskie,6537.6
+330,062013912000,suwalski,1308.0,2003,2012,powiat,20,podlaskie,2590.0
+331,062013963000,Suwałki,65.0,2003,2063,miasto na prawach powiatu,20,podlaskie,27856.3
+333,071412912000,miński,1164.0,2003,1412,powiat,14,mazowieckie,20056.4
+334,071412934000,wołomiński,955.0,2003,1434,powiat,14,mazowieckie,47736.3
+337,071413018000,piaseczyński,621.0,2003,1418,powiat,14,mazowieckie,48775.7
+338,071413021000,pruszkowski,246.0,2003,1421,powiat,14,mazowieckie,60362.6
+369,071413032000,warszawski zachodni,533.0,2003,1432,powiat,14,mazowieckie,39392.4
+343,071422524000,pułtuski,828.0,2003,1424,powiat,14,mazowieckie,8185.4
+339,071422502000,ciechanowski,1063.0,2003,1402,powiat,14,mazowieckie,17046.9
+341,071422513000,mławski,1171.0,2003,1413,powiat,14,mazowieckie,11163.1
+342,071422520000,płoński,1384.0,2003,1420,powiat,14,mazowieckie,13023.9
+345,071422611000,makowski,1065.0,2003,1411,powiat,14,mazowieckie,8379.1
+39,071422615000,ostrołęcki,2099.0,2003,1415,powiat,14,mazowieckie,5015.9
+346,071422616000,ostrowski,1225.0,2003,1416,powiat,14,mazowieckie,12406.1
+347,071422622000,przasnyski,1218.0,2003,1422,powiat,14,mazowieckie,5231.1
+348,071422635000,wyszkowski,876.0,2003,1435,powiat,14,mazowieckie,12995.3
+63,071422661000,Ostrołęka,29.0,2003,1461,miasto na prawach powiatu,14,mazowieckie,15342.4
+349,071422701000,białobrzeski,639.0,2003,1401,powiat,14,mazowieckie,7508.3
+350,071422707000,kozienicki,917.0,2003,1407,powiat,14,mazowieckie,12563.3
+370,071422709000,lipski,748.0,2003,1409,powiat,14,mazowieckie,2661.5
+355,071422736000,zwoleński,571.0,2003,1436,powiat,14,mazowieckie,2280.2
+351,071422723000,przysuski,801.0,2003,1423,powiat,14,mazowieckie,14165.3
+353,071422725000,radomski,1530.0,2003,1425,powiat,14,mazowieckie,19349.3
+356,071427004000,gostyniński,615.0,2003,1404,powiat,14,mazowieckie,3626.4
+372,071427027000,sierpecki,853.0,2003,1427,powiat,14,mazowieckie,8713.3
+357,071427019000,płocki,1799.0,2003,1419,powiat,14,mazowieckie,5338.1
+358,071427103000,garwoliński,1284.0,2003,1403,powiat,14,mazowieckie,9784.6
+359,071427110000,łosicki,772.0,2003,1410,powiat,14,mazowieckie,1462.0
+41,071427126000,siedlecki,1603.0,2003,1426,powiat,14,mazowieckie,2529.3
+360,071427129000,sokołowski,1131.0,2003,1429,powiat,14,mazowieckie,6767.5
+361,071427133000,węgrowski,1219.0,2003,1433,powiat,14,mazowieckie,15516.8
+363,071427306000,grójecki,1269.0,2003,1406,powiat,14,mazowieckie,31222.2
+364,071427328000,sochaczewski,731.0,2003,1428,powiat,14,mazowieckie,21065.0
+373,071427338000,żyrardowski,533.0,2003,1438,powiat,14,mazowieckie,12499.6
